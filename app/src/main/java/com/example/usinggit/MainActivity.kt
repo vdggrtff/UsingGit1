@@ -19,4 +19,6 @@ class MainActivity : AppCompatActivity() {
 
         var str = "Hello Git!"
     }
+
+    // Connect Firebase to project
 }
