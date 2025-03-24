@@ -22,4 +22,5 @@ class MainActivity : AppCompatActivity() {
 
     // Connect Firebase to project
     // Add login feature
+    // Code after pushing to repo
 }
